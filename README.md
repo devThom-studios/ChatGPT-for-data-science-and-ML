@@ -1,1 +1,1 @@
-# ChatGPT-for-data-science-and-ML
+# ChatGPT for Data Science and Machine Learning
